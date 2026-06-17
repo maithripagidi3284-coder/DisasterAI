@@ -1,0 +1,15 @@
+{
+  "type": "cyclone",
+  "chunks": [
+    {
+      "id": "cyclone_001",
+      "title": "Before Cyclone Hits",
+      "text": "Move indoors immediately. Stay away from windows. Go to the lowest floor interior room."
+    },
+    {
+      "id": "cyclone_002",
+      "title": "After Cyclone",
+      "text": "Do not go outside until authorities confirm it is safe. Watch for fallen power lines and damaged buildings."
+    }
+  ]
+}
