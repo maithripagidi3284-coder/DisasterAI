@@ -4,7 +4,6 @@ import {
   Text,
   StyleSheet,
   Alert,
-  Platform
 } from 'react-native';
 import { Audio } from 'expo-av';
 
@@ -39,13 +38,8 @@ export default function MicButton({ onResult }: MicButtonProps) {
       if (!rec) return;
       await rec.stopAndUnloadAsync();
       setRecording(false);
-      // Since Whisper needs APK build, we show a demo message
-      Alert.alert(
-        'Voice Input',
-        'Voice transcription requires a full APK build with Whisper AI. For now, please type your emergency.',
-        [{ text: 'OK' }]
-      );
       setRec(null);
+      Alert.alert('Recorded!', 'Voice recorded successfully. Whisper AI will be enabled in next update.');
     } catch (err) {
       setRecording(false);
     }
