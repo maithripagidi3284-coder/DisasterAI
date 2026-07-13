@@ -234,13 +234,33 @@ DisasterAI/
 
 ## 🎥 Demo Video
 
+## Demo Video
 
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/qtqqQ8DdsZg/0.jpg)](https://youtube.com/shorts/qtqqQ8DdsZg)
 
 ---
 
 ## 📸 Screenshots
 
+### App Screens
+<p float="left">
+  <img src="appscreen1.jpeg" width="200" />
+  <img src="appscreen2.jpeg" width="200" />
+  <img src="appscreen3.jpeg" width="200" />
+  <img src="appscreen4.jpeg" width="200" />
+  <img src="appscreen5.jpeg" width="200" />
+</p>
 
+### Alerts
+<p float="left">
+  <img src="alertscreen1.jpeg" width="200" />
+  <img src="alertscreen2.jpeg" width="200" />
+</p>
+
+### Contacts
+<img src="contactscreen.jpeg" width="200" />
 
 ---
 
